@@ -42,7 +42,6 @@ Comprometido con el **aprendizaje continuo**, la **calidad del código** y el **
 ### 💼 Experiencia Profesional
 
 #### 🏢 **Sistemas EnLinea S.A.** – *Desarrollador de Software Junior*
-**2023 – Actualidad**
 - Diseñó y desarrolló componentes reutilizables en **React**, mejorando la eficiencia del equipo de desarrollo.
 - Optimizó el **Design System INUBE**, logrando una experiencia de usuario más consistente y reduciendo tiempos de implementación.
 - Colaboró en soluciones backend escalables, asegurando la entrega oportuna de funcionalidades clave.
@@ -50,7 +49,6 @@ Comprometido con el **aprendizaje continuo**, la **calidad del código** y el **
 - Resolvió problemas técnicos en interfaces, mejorando la calidad y rendimiento del producto final.
 
 #### 🍽️ **Food Shared** (Proyecto en equipo) – *Desarrollador Full Stack*
-**2022 – 2023**
 - Desarrolló el frontend utilizando **React** y **Styled Components**.
 - Implementó formularios dinámicos con validación robusta de datos de usuarios.
 - Integró el frontend con una API RESTful en **Django** para gestionar donaciones y usuarios.
