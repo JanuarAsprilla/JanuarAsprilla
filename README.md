@@ -2,7 +2,7 @@
   <img width="100" src="https://raw.githubusercontent.com/MicaelaSacco/MicaelaSacco/main/assets/hello.gif" alt="Hola!">
 </p>
 
-<h1 align="center">👨‍💻 Januar Asprilla</h1>
+<h1 align="center">Januar Asprilla</h1>
 <p align="center">
   <strong>Ingeniero de Sistemas | Desarrollador Full-Stack</strong><br>
   Especializado en React, TailwindCSS, Django y Node.js | Construyendo soluciones tecnológicas de alto impacto
